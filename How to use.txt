@@ -1,0 +1,3 @@
+./optimiseTheme.sh /Volumes/OSXLIGHT -r
+
+-r : will compress .icns files
